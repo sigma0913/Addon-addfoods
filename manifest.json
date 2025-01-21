@@ -9,6 +9,7 @@
     },
     "modules": [
         {
+            "description": "マインクラフトに様々な食材や料理を追加します。",
             "type": "script",
             "version": [1,0,0],
             "uuid": "f945fad9-21fc-476c-aa59-253ae949321e",
