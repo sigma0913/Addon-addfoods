@@ -8,7 +8,8 @@
       "components": {
         "minecraft:icon": {
           "texture": "WheatFlourBundle"
-        }
+        },
+        "minecraft:max_stack_size": 16
       }
     }
   }
