@@ -6,3 +6,6 @@
 
 ２(1が出来なかった場合)
 https://github.com/sigma0913/Addon-addfoods にある「behavior」「resource」をそれぞれダウンロード。
+「C:/Users/ユーザー名/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/behavior_packs」
+の中にはダウンロードした「behavior」フォルダ、
+「C:/Users/ユーザー名/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/」

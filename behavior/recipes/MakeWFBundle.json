@@ -1,0 +1,24 @@
+{
+    "format_version": "2",
+    "minecraft:recipe_shapeless": {
+      "description": {
+        "identifier": "minecraft:enchanting_table"
+      },
+      "tags": [ "crafting_table" ],
+      "ingredients": [
+          {
+              "item": "minecraft:leather"
+          },
+          {
+              "item": "minecraft:wheat"
+          },
+          {
+              "item": "minecraft:wheat"
+          },
+          {
+              "item": "minecraft:wheat"
+          }
+      ],
+      "result": { "item": "ex:WheatFlourBundle", "count": 8}
+    }
+  }
