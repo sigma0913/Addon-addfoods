@@ -10,13 +10,15 @@
     "modules": [
         {
             "description": "マインクラフトに様々な食材や料理を追加します。",
-            "type": "data",
+            "type": "resources",
             "version": [1,0,0],
             "uuid": "f945fad9-21fc-476c-aa59-253ae949321e"
         }
     ],
     "dependencies": [
         {
+            "uuid": "d63851d1-4593-48de-80f1-8df6bac29c26",
+            "version": [1,0,0]
         }
     ]
 }
