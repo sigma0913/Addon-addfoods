@@ -1,0 +1,18 @@
+{
+    "format_version": "2",
+    "minecraft:recipe_shaped": {
+      "description": {
+        "identifier": "minecraft:enchanting_table"
+      },
+      "tags": [ "crafting_table" ],
+      "pattern": [
+        "ww",
+        "wl"
+      ],
+      "key": {
+        "w": { "item": "minecraft:wheat" },
+        "l": { "item": "minecraft:leather" }
+      },
+      "result": { "item": "ex:WheatFlourBundle" }
+    }
+  }
