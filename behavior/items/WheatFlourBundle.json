@@ -1,0 +1,14 @@
+{
+    "format_version": "2",
+    "minecraft:item": {
+      "description": {
+        "identifier": "WheatFlourBundle",
+        "category": "Items"
+      },
+      "components": {
+        "minecraft:icon": {
+          "texture": "WheatFlourBundle"
+        }
+      }
+    }
+  }
