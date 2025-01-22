@@ -1,16 +1,28 @@
+この説明は「!配布用!」の中の「使い方.txt」をクリックすることでいつでも見ることができます。
+URL： https://github.com/sigma0913/Addon-addfoods/blob/main/!%E9%85%8D%E5%B8%83%E7%94%A8!/%E4%BD%BF%E3%81%84%E6%96%B9.txt
+＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
+
 導入方法
 
+０(ダウンロードの方法について)
+https://github.com/sigma0913/Addon-addfoods にアクセスします。
+そこから「!配布用!」をクリックし、さらに「Add Foods.mcaddon」をクリック。
+そうすると、だいたい真ん中のあたりに青文字で「View raw」、もしくは右側に黒文字で「Raw」と書かれています。
+どちらでもいいのでクリックすると、ダウンロードが開始します。
+
 １(簡単な方)
-!配布用! の中にある「Add Foods.mcaddon」をダウンロードし、適当な場所(デスクトップ、ドキュメントなど)に置いてください。
+!配布用! の中にある「Add Foods.mcaddon」をダウンロードし(手順０参照)、適当な場所(デスクトップ、ドキュメントなど)に置いてください。
 そのファイルをダブルクリックすればマイクラが勝手に起動してインストールが始まるはずです。
 また、この説明書の下に書いてある「インストールができたら」も実行してください。
 
 ２(1が出来なかった場合)
-https://github.com/sigma0913/Addon-addfoods にある「behavior」「resource」をそれぞれダウンロード。
+「Add Foods.mcaddon」の拡張子「.mcaddon」の部分を「.zip」に変更して、解凍してください。
+解凍されたファイルの中に、さらに「behavior.mcpack」と「resource.mcpack」の二つのファイルがあると思うので、それぞれ拡張子「.mcpack」を「.zip」に変えて解凍してください。
+解凍が終了したら
 「C:/Users/ユーザー名/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/behavior_packs」
-の中にはダウンロードした「behavior」フォルダ、
+の中には解凍した「behavior」フォルダ、
 「C:/Users/ユーザー名/AppData/Local/Packages/Microsoft.MinecraftUWP_8wekyb3d8bbwe/LocalState/games/com.mojang/resource_packs」
-の中にはダウンロードした「resource」フォルダを入れてください。
+の中には解凍した「resource」フォルダを入れてください。
 それができたら、この説明書の下に書いてある「インストールができたら」も実行してください
 ＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿＿
 
