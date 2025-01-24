@@ -1,5 +1,5 @@
 {
-    "format_version": 2,
+    "format_version": "1.16.100",
     "header": {
         "name": "Add Foods",
         "description": "マインクラフトに様々な食材や料理を追加します。",

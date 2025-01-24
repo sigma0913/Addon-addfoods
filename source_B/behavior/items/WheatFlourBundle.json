@@ -1,0 +1,32 @@
+
+{
+  "format_version": "1.21.10",
+  "minecraft:item": {
+    "description": {
+      "identifier": "addfoods:WheatFlourBundle",
+      "menu_category":{
+        "group":"itemGroup.name.crop",
+        "category":"items"
+      }
+    },
+    "components": {
+    "minecraft:max_stack_size":16,
+    "minecraft:icon":"WheatFlourBundle",
+    "minecraft:allow_off_hand":false,
+    "minecraft:display_name":{
+      "value": "小麦粉の袋"
+    },
+    "minecraft:use_modifiers": {
+      "use_duration": 1.6,
+      "movement_modifier": 0.35
+    },
+    "minecraft:use_animation": "eat",
+    "minecraft:food":{
+      "can_always_eat": false,
+      "nutrition" : 2,
+      "saturation_modifier": 0.6,
+      "using_converts_to": ""
+    }
+    }
+  }
+}

@@ -1,8 +1,8 @@
 {
-    "format_version": 2,
+    "format_version": "1.16.100",
     "minecraft:item": {
       "description": {
-        "identifier": "WheatFlourBundle",
+        "identifier": "addfoods:WheatFlourBundle",
         "category": "Items"
       },
       "components": {

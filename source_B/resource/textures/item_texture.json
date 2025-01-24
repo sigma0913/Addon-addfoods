@@ -1,0 +1,12 @@
+{
+    "resource_pack_name":"Add Foods",
+    "texture_name":"atlas.items",
+    "texture_data":{
+        "WheatFlourBundle":{
+            "textures":"textures/items/WheatFlourBundle"
+        },
+        "小麦粉":{
+            "textures":"textures/items/WheatFlour"
+        }
+    }
+}
