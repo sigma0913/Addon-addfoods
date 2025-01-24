@@ -1,5 +1,5 @@
 {
-    "format_version": "2",
+    "format_version": 2,
     "minecraft:recipe_shapeless": {
       "description": {
         "identifier": "minecraft:enchanting_table"
