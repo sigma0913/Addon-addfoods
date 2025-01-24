@@ -4,21 +4,21 @@
         "name": "Add Foods",
         "description": "マインクラフトに様々な食材や料理を追加します。",
         "uuid": "52316c6d-1099-4069-98c7-76f19ed96ed7",
-        "version": [1,0,1],
+        "version": [1,0,2],
         "min_engine_version": [1,16,0]
     },
     "modules": [
         {
             "description": "マインクラフトに様々な食材や料理を追加します。",
             "type": "resources",
-            "version": [1,0,1],
+            "version": [1,0,2],
             "uuid": "f945fad9-21fc-476c-aa59-253ae949321e"
         }
     ],
     "dependencies": [
         {
             "uuid": "d63851d1-4593-48de-80f1-8df6bac29c26",
-            "version": [1,0,1]
+            "version": [1,0,2]
         }
     ]
 }
